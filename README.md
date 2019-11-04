@@ -1,5 +1,5 @@
 # Empirical-Studies-for-Natural-Language-Processing
-A resources list of empirical studies for natural language processing.
+A resources list of empirical studies and investigations for natural language processing.
 
 - **[ACL-18]** How Much Attention Do You Need? A Granular Analysis of Neural Machine Translation Architectures. [[paper]](https://www.aclweb.org/anthology/P18-1167.pdf)
 
@@ -17,6 +17,10 @@ A resources list of empirical studies for natural language processing.
 - **[EMNLP-19]** An Empirical Comparison on Imitation Learning and Reinforcement Learning for Paraphrase Generation. [[paper]](https://arxiv.org/pdf/1908.10835.pdf)
 
 - **[EMNLP-19]** An Empirical Study of Incorporating Pseudo Data into Grammatical Error Correction. [[paper]](https://arxiv.org/pdf/1909.00502.pdf)
+
+- **[EMNLP-19]** Investigating the Effectiveness of BPE: The Power of Shorter Sequences. [[paper]](https://www.aclweb.org/anthology/D19-1141.pdf)
+
+- **[EMNLP-19]** Are We Modeling the Task or the Annotator? An Investigation of Annotator Bias in Natural Language Understanding Datasets. [[paper]](https://www.aclweb.org/anthology/D19-1107.pdf)
 
 - **[arXiv-19]** An Empirical Study of Generation Order for Machine Translation. [[paper]](https://128.84.21.199/pdf/1910.13437.pdf)
 
