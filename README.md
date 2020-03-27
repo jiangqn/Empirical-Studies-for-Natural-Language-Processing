@@ -25,3 +25,5 @@ A resources list of empirical studies and investigations for natural language pr
 - **[arXiv-19]** An Empirical Study of Generation Order for Machine Translation. [[paper]](https://128.84.21.199/pdf/1910.13437.pdf)
 
 - **[arXiv-19]** Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer. [[paper]](https://arxiv.org/abs/1910.10683)
+
+- **[arXiv-19]** An Empirical Investigation of Pre-Trained Transformer Language Models for Open-Domain Dialogue Generation. [[paper]](https://arxiv.org/pdf/2003.04195.pdf)
